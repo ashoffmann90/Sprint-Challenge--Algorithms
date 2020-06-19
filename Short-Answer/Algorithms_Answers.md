@@ -12,9 +12,9 @@ c) O(log n)
 
 ## Exercise II
 
--assuming floors are sorted, as they would be IRL
+-floors are sorted
 -check if the egg breaks
 -if an egg breaks, the floor is f or higher
 -if the egg doesn't break, the floor is less than f
--keep spliting until you find the floor
+-keep splitting until you find the floor
 -runtime is log2 n
